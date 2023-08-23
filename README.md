@@ -1,4 +1,4 @@
-# Ex:01_DS_Data_Cleansing
+# Ex:01 DS Data Cleansing
 ## AIM
 To read the given data and perform data cleaning and save the cleaned data to a file. 
 
@@ -20,6 +20,9 @@ Save the Clean data to the file
 
 # For data_set:
 ```
+developed by:LATHISH KANNA.M
+register number:212222230073
+
 import pandas as pd
 df=pd.read_csv("/content/Data_set(1).csv")
 print(df)
